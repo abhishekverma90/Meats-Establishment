@@ -1,0 +1,1 @@
+class Listlanguage1ItemModel { }

@@ -1,0 +1,1 @@
+class Listyourstory1ItemModel { }

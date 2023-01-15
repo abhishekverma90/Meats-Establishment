@@ -1,0 +1,1 @@
+class MyStatusMenu1Model { }
