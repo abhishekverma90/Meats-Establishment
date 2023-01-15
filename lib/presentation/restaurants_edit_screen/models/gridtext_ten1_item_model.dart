@@ -1,0 +1,1 @@
+class GridtextTen1ItemModel { }
